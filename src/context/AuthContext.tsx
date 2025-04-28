@@ -32,8 +32,8 @@ interface AuthProviderProps {
 // Mock admin user for demo purposes
 const ADMIN_USER = {
   id: '1',
-  name: 'Admin User',
-  email: 'admin@example.com',
+  name: 'Italo',
+  email: 'italo.marques.llemon@gmail.com',
   role: 'admin' as const,
   password: 'admin123' // In a real app, this would be hashed and stored securely
 };
