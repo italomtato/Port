@@ -75,7 +75,7 @@ const Contact: React.FC = () => {
                 <h3 className="text-lg font-medium text-gray-900 dark:text-white mb-4">Conecte-se comigo</h3>
                 <div className="flex space-x-4">
                   <a
-                    href={socialLinks.github}
+                    href="https://github.com/ItaloHenriqueMarquesCampos"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="p-2 bg-gray-100 dark:bg-gray-700 rounded-full text-gray-600 dark:text-gray-300 hover:bg-blue-100 dark:hover:bg-blue-900 hover:text-blue-600 dark:hover:text-blue-400 transition-colors duration-300"
