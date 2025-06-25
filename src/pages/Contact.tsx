@@ -84,7 +84,7 @@ const Contact: React.FC = () => {
                     <Github className="h-5 w-5" />
                   </a>
                   <a
-                    href={socialLinks.linkedin}
+                    href="https://www.linkedin.com/in/data-italomarques/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="p-2 bg-gray-100 dark:bg-gray-700 rounded-full text-gray-600 dark:text-gray-300 hover:bg-blue-100 dark:hover:bg-blue-900 hover:text-blue-600 dark:hover:text-blue-400 transition-colors duration-300"
@@ -93,7 +93,7 @@ const Contact: React.FC = () => {
                     <Linkedin className="h-5 w-5" />
                   </a>
                   <a
-                    href={socialLinks.facebook}
+                    href="https://www.facebook.com/italo.marques.tato"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="p-2 bg-gray-100 dark:bg-gray-700 rounded-full text-gray-600 dark:text-gray-300 hover:bg-blue-100 dark:hover:bg-blue-900 hover:text-blue-600 dark:hover:text-blue-400 transition-colors duration-300"
@@ -102,16 +102,7 @@ const Contact: React.FC = () => {
                     <Facebook className="h-5 w-5" />
                   </a>
                   <a
-                    href={socialLinks.twitter}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="p-2 bg-gray-100 dark:bg-gray-700 rounded-full text-gray-600 dark:text-gray-300 hover:bg-blue-100 dark:hover:bg-blue-900 hover:text-blue-600 dark:hover:text-blue-400 transition-colors duration-300"
-                    aria-label="Twitter"
-                  >
-                    <Twitter className="h-5 w-5" />
-                  </a>
-                  <a
-                    href={socialLinks.instagram}
+                    href="https://www.instagram.com/data.italomarques/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="p-2 bg-gray-100 dark:bg-gray-700 rounded-full text-gray-600 dark:text-gray-300 hover:bg-blue-100 dark:hover:bg-blue-900 hover:text-blue-600 dark:hover:text-blue-400 transition-colors duration-300"
