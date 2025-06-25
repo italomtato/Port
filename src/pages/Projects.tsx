@@ -11,7 +11,7 @@ const Projects: React.FC = () => {
         <div className="text-center mb-12">
           <h1 className="text-4xl font-bold text-gray-900 dark:text-white mb-4">Projects</h1>
           <p className="text-lg text-gray-700 dark:text-gray-300 max-w-3xl mx-auto">
-            A collection of data analysis and visualization projects showcasing my skills and expertise in transforming data into actionable insights.
+            Uma coleção de projetos de análise e visualização de dados que mostram minhas habilidades e experiência em transformar dados em insights acionáveis.
           </p>
         </div>
         
