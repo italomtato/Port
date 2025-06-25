@@ -46,7 +46,7 @@ const Contact: React.FC = () => {
                   </div>
                   <div>
                     <h3 className="text-lg font-medium text-gray-900 dark:text-white">Email</h3>
-                    <p className="text-gray-600 dark:text-gray-300">{socialLinks.email}</p>
+                    <p className="text-gray-600 dark:text-gray-300">italo.marques.llemon@gmail.com</p>
                   </div>
                 </div>
                 
@@ -55,7 +55,7 @@ const Contact: React.FC = () => {
                     <Phone className="h-6 w-6 text-blue-600 dark:text-blue-400" />
                   </div>
                   <div>
-                    <h3 className="text-lg font-medium text-gray-900 dark:text-white">Phone</h3>
+                    <h3 className="text-lg font-medium text-gray-900 dark:text-white">Telefone</h3>
                     <p className="text-gray-600 dark:text-gray-300">+55 (31) 9 8265-1896</p>
                   </div>
                 </div>
@@ -65,7 +65,7 @@ const Contact: React.FC = () => {
                     <MapPin className="h-6 w-6 text-blue-600 dark:text-blue-400" />
                   </div>
                   <div>
-                    <h3 className="text-lg font-medium text-gray-900 dark:text-white">Location</h3>
+                    <h3 className="text-lg font-medium text-gray-900 dark:text-white">Local</h3>
                     <p className="text-gray-600 dark:text-gray-300">Cel. Fabriciano, Minas Gerais, Brasil</p>
                   </div>
                 </div>
