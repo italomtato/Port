@@ -30,7 +30,7 @@ export const initialProjects: Project[] = [
 export const initialVideos: Video[] = [
   {
     id: 1,
-    title: "Introdução à Análise de Dados",
+    title: "Introdução à Análise de Dadosq",
     description: "Aprenda os fundamentos da análise de dados e como começar sua jornada nesta área.",
     vimeoId: "123456789",
     thumbnail: "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
