@@ -27,7 +27,7 @@ const Skills: React.FC = () => {
               </div>
             </div>
             <div className="md:w-2/3">
-              <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-6">Minha História</h2>
+              <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-6">Minha História - Italo Marques</h2>
               <div className="prose dark:prose-invert max-w-none">
                 <p className="text-gray-700 dark:text-gray-300 mb-6">
                   Como Analista de Dados, minha paixão é transformar dados complexos em insights acionáveis que impulsionam decisões de negócios. Minha jornada começou com uma curiosidade natural por números e padrões, que me levou a explorar o vasto mundo da análise de dados.
