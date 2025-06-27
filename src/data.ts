@@ -18,7 +18,7 @@ export const initialProjects: Project[] = [
     link: "#"
   },
   {
-    id: 2,
+    id: 3,
     title: "Análise Preditiva de Vendas",
     description: "Implementação de modelo preditivo para forecast de vendas utilizando técnicas avançadas de machine learning.",
     image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
@@ -26,7 +26,7 @@ export const initialProjects: Project[] = [
     link: "#"
   },
   {
-    id: 2,
+    id: 4,
     title: "Análise Preditiva de Vendas",
     description: "Implementação de modelo preditivo para forecast de vendas utilizando técnicas avançadas de machine learning.",
     image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
@@ -34,7 +34,7 @@ export const initialProjects: Project[] = [
     link: "#"
   },
   {
-    id: 2,
+    id: 5,
     title: "Análise Preditiva de Vendas",
     description: "Implementação de modelo preditivo para forecast de vendas utilizando técnicas avançadas de machine learning.",
     image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
@@ -42,7 +42,7 @@ export const initialProjects: Project[] = [
     link: "#"
   },
   {
-    id: 2,
+    id: 6,
     title: "Análise Preditiva de Vendas",
     description: "Implementação de modelo preditivo para forecast de vendas utilizando técnicas avançadas de machine learning.",
     image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
@@ -50,7 +50,7 @@ export const initialProjects: Project[] = [
     link: "#"
   },
   {
-    id: 2,
+    id: 7,
     title: "Análise Preditiva de Vendas",
     description: "Implementação de modelo preditivo para forecast de vendas utilizando técnicas avançadas de machine learning.",
     image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
@@ -58,7 +58,7 @@ export const initialProjects: Project[] = [
     link: "#"
   },
   {
-    id: 2,
+    id: 8,
     title: "Análise Preditiva de Vendas",
     description: "Implementação de modelo preditivo para forecast de vendas utilizando técnicas avançadas de machine learning.",
     image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
@@ -66,7 +66,7 @@ export const initialProjects: Project[] = [
     link: "#"
   },
   {
-    id: 2,
+    id: 9,
     title: "Análise Preditiva de Vendas",
     description: "Implementação de modelo preditivo para forecast de vendas utilizando técnicas avançadas de machine learning.",
     image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
