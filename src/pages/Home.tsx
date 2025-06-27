@@ -30,12 +30,6 @@ const Home: React.FC = () => {
                 >
                   Ver Projetos <ArrowRight className="ml-2 h-5 w-5" />
                 </Link>
-                <Link
-                  to="/dashboard"
-                  className="px-6 py-3 bg-white dark:bg-gray-800 text-blue-600 dark:text-blue-400 font-medium rounded-lg border border-blue-600 dark:border-blue-400 hover:bg-blue-50 dark:hover:bg-gray-700 transition-colors duration-300"
-                >
-                  Ver Dashboard
-                </Link>
               </div>
             </div>
             <div className="md:w-1/2 flex justify-center">
