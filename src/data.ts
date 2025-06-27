@@ -108,12 +108,12 @@ export const initialEducation: Education[] = [
   },
   {
     id: 2,
-    institution: "DataCamp",
-    degree: "Certificação Profissional",
-    field: "Data Science",
-    startDate: "2023",
-    endDate: "2023",
-    description: "Especialização em Python, R e ferramentas de análise de dados."
+    institution: "Centro Universitário Única",
+    degree: "Pós-graduação Lato Sensu",
+    field: "Mba Executivo Em Gestão De Negócios E Marketing",
+    startDate: "2019",
+    endDate: "2021",
+    description: "Gestão de marcas · Análises de mercado · Tomada de decisão · Marketing digital · Negociação e vendas · Planejamento estratégico · Gestão de equipes · Gestão financeira · Inovação e empreendedorismo · Comunicação corporativa."
   },
     {
     id: 3,
