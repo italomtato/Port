@@ -138,19 +138,11 @@ export const initialEducation: Education[] = [
 export const initialEvents: Event[] = [
   {
     id: 1,
-    name: "Data Science Summit 2024",
-    organizer: "Data Science Academy",
-    date: "2024-03-15",
-    description: "Conferência internacional sobre as últimas tendências em data science.",
-    role: "Palestrante"
-  },
-  {
-    id: 2,
-    name: "Workshop de Visualização de Dados",
-    organizer: "Grupo Prominas",
-    date: "2024-02-20",
-    description: "Workshop prático sobre técnicas avançadas de visualização de dados.",
-    role: "Instrutor"
+    name: "Startup Weekend Vale do Aço 2019",
+    organizer: "Startup Weekend",
+    date: "2019",
+    description: "O Startup Weekend Vale do Aço 2019 foi um evento de inovação e empreendedorismo onde ideias viraram startups em 54 horas. Fiquei em 2º lugar com meu projeto.",
+    role: "Participante"
   }
 ];
 
