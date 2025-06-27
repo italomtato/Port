@@ -99,6 +99,15 @@ export const initialVideos: Video[] = [
 export const initialEducation: Education[] = [
   {
     id: 1,
+    institution: "Pontifícia Universidade Católica Do Paraná (PUCPR)",
+    degree: "Pós-graduação Lato Sensu",
+    field: "Analise de dados para tomada de decisões",
+    startDate: "2024",
+    endDate: "2025",
+    description: "Tomada de decisões baseada em dados (Data-driven decision making) · Ferramentas de visualização de dados · SQL · Análise estatística · Mineração de dados e machine learning · Interpretação de dados."
+  },
+    {
+    id: 2,
     institution: "Centro Universitário do Leste de Minas Gerais (UnilesteOficial)",
     degree: "Bacharelado",
     field: "Engenharia, Engenharia de Produção",
@@ -106,8 +115,8 @@ export const initialEducation: Education[] = [
     endDate: "2020",
     description: "Tomada de decisão · Empreendedorismo · Gestão de processos · Planejamento estratégico · Gestão de pessoas."
   },
-  {
-    id: 2,
+    {
+    id: 3,
     institution: "Centro Universitário Única",
     degree: "Pós-graduação Lato Sensu",
     field: "Mba Executivo Em Gestão De Negócios E Marketing",
@@ -116,7 +125,7 @@ export const initialEducation: Education[] = [
     description: "Gestão de marcas · Análises de mercado · Tomada de decisão · Marketing digital · Negociação e vendas · Planejamento estratégico · Gestão de equipes · Gestão financeira · Inovação e empreendedorismo · Comunicação corporativa."
   },
     {
-    id: 3,
+    id: 4,
     institution: "UNINTER - Centro Universitário Internacional",
     degree: "Tecnólogo",
     field: "Processos Gerenciais, Gestão",
