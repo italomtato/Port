@@ -23,9 +23,9 @@ const Videos: React.FC = () => {
     <div className="min-h-screen bg-gray-50 dark:bg-gray-900 pt-20 pb-16 px-4 sm:px-6 lg:px-8 transition-colors duration-300">
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-12">
-          <h1 className="text-4xl font-bold text-gray-900 dark:text-white mb-4">Video Tutorials</h1>
+          <h1 className="text-4xl font-bold text-gray-900 dark:text-white mb-4">Videos</h1>
           <p className="text-lg text-gray-700 dark:text-gray-300 max-w-3xl mx-auto">
-            Watch educational videos on data analysis techniques, tools, and best practices to enhance your skills.
+            Uma coleção de vídeos práticos e diretos sobre Análise de Dados, com explicações claras sobre métricas, relatórios e insights que geram valor real.
           </p>
         </div>
         
