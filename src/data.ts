@@ -96,7 +96,7 @@ export const initialVideos: Video[] = [
   }
 ];
 
-export const initialEducation: Education[] = [
+export const initialEducation: Eventos[] = [
   {
     id: 1,
     institution: "Pontifícia Universidade Católica Do Paraná (PUCPR)",
