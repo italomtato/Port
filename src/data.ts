@@ -16,6 +16,14 @@ export const initialProjects: Project[] = [
     image: "/planilhaconsorcio.jpeg",
     tags: ["Google Sheets"],
     link: "#"
+  },
+    {
+    id: 3,
+    title: "Planilha de Comissionamento de Vendas – Consórcio",
+    description: "Desenvolvimento de uma planilha estratégica para controle de comissões, integrando dados de vendedores, gestores e empresa. A solução permite acompanhar metas, calcular comissões de forma automatizada e gerar relatórios mensais organizados.",
+    image: "/planilhaconsorcio.jpeg",
+    tags: ["Google Sheets"],
+    link: "#"
   }
 ];
 
