@@ -16,7 +16,7 @@ const Footer: React.FC = () => {
           </div>
           <div className="flex space-x-6">
             <a
-              href={socialLinks.github}
+              href="https://github.com/ItaloHenriqueMarquesCampos"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors duration-300"
@@ -25,7 +25,7 @@ const Footer: React.FC = () => {
               <Github className="h-5 w-5" />
             </a>
             <a
-              href={socialLinks.linkedin}
+              href="https://www.linkedin.com/in/data-italomarques/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors duration-300"
@@ -34,7 +34,7 @@ const Footer: React.FC = () => {
               <Linkedin className="h-5 w-5" />
             </a>
             <a
-              href={socialLinks.facebook}
+              href="https://www.facebook.com/italo.marques.tato"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors duration-300"
@@ -43,16 +43,7 @@ const Footer: React.FC = () => {
               <Facebook className="h-5 w-5" />
             </a>
             <a
-              href={socialLinks.twitter}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors duration-300"
-              aria-label="Twitter"
-            >
-              <Twitter className="h-5 w-5" />
-            </a>
-            <a
-              href={socialLinks.instagram}
+              href="https://www.instagram.com/data.italomarques/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors duration-300"
