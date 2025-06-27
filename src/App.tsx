@@ -4,14 +4,14 @@ import { ThemeProvider } from './context/ThemeContext';
 import { AuthProvider } from './context/AuthContext';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
-import Home from './pages/Início';
-import Projects from './pages/Projetos';
+import Home from './pages/Home';
+import Projects from './pages/Projects';
 import ProjectDetail from './pages/ProjectDetail';
 import Videos from './pages/Videos';
 import VideoDetail from './pages/VideoDetail';
-import Education from './pages/Educação';
+import Education from './pages/Education';
 import Skills from './pages/Skills';
-import Contact from './pages/Contatos';
+import Contact from './pages/Contacts';
 import Admin from './pages/Admin';
 
 function App() {
