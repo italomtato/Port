@@ -11,10 +11,10 @@ export const initialProjects: Project[] = [
   },
   {
     id: 2,
-    title: "Análise Preditiva de Vendas",
-    description: "Implementação de modelo preditivo para forecast de vendas utilizando técnicas avançadas de machine learning.",
-    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-    tags: ["Python", "Machine Learning", "Pandas", "Scikit-learn"],
+    title: "Planilha de Comissionamento de Vendas – Consórcio",
+    description: "Desenvolvimento de uma planilha estratégica para controle de comissões, integrando dados de vendedores, gestores e empresa. A solução permite acompanhar metas, calcular comissões de forma automatizada e gerar relatórios mensais organizados.",
+    image: "planilhaconsorcio.jpeg",
+    tags: [, "Google Sheets"],
     link: "#"
   },
   {
