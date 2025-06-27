@@ -16,62 +16,6 @@ export const initialProjects: Project[] = [
     image: "planilhaconsorcio.jpeg",
     tags: [, "Google Sheets"],
     link: "#"
-  },
-  {
-    id: 3,
-    title: "Análise Preditiva de Vendas",
-    description: "Implementação de modelo preditivo para forecast de vendas utilizando técnicas avançadas de machine learning.",
-    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-    tags: ["Python", "Machine Learning", "Pandas", "Scikit-learn"],
-    link: "#"
-  },
-  {
-    id: 4,
-    title: "Análise Preditiva de Vendas",
-    description: "Implementação de modelo preditivo para forecast de vendas utilizando técnicas avançadas de machine learning.",
-    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-    tags: ["Python", "Machine Learning", "Pandas", "Scikit-learn"],
-    link: "#"
-  },
-  {
-    id: 5,
-    title: "Análise Preditiva de Vendas",
-    description: "Implementação de modelo preditivo para forecast de vendas utilizando técnicas avançadas de machine learning.",
-    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-    tags: ["Python", "Machine Learning", "Pandas", "Scikit-learn"],
-    link: "#"
-  },
-  {
-    id: 6,
-    title: "Análise Preditiva de Vendas",
-    description: "Implementação de modelo preditivo para forecast de vendas utilizando técnicas avançadas de machine learning.",
-    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-    tags: ["Python", "Machine Learning", "Pandas", "Scikit-learn"],
-    link: "#"
-  },
-  {
-    id: 7,
-    title: "Análise Preditiva de Vendas",
-    description: "Implementação de modelo preditivo para forecast de vendas utilizando técnicas avançadas de machine learning.",
-    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-    tags: ["Python", "Machine Learning", "Pandas", "Scikit-learn"],
-    link: "#"
-  },
-  {
-    id: 8,
-    title: "Análise Preditiva de Vendas",
-    description: "Implementação de modelo preditivo para forecast de vendas utilizando técnicas avançadas de machine learning.",
-    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-    tags: ["Python", "Machine Learning", "Pandas", "Scikit-learn"],
-    link: "#"
-  },
-  {
-    id: 9,
-    title: "Análise Preditiva de Vendas",
-    description: "Implementação de modelo preditivo para forecast de vendas utilizando técnicas avançadas de machine learning.",
-    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-    tags: ["Python", "Machine Learning", "Pandas", "Scikit-learn"],
-    link: "#"
   }
 ];
 
