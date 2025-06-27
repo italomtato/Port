@@ -9,6 +9,14 @@ export const initialProjects: Project[] = [
     tags: ["Looker Studio", "SQL", "Data Visualization", "Churn Analytics"],
     link: "https://github.com/ItaloHenriqueMarquesCampos/cancelamentos_pincel/blob/main/README.md"
   },
+    {
+    id: 1,
+    title: "Painel de Análise de Dados de Cancelamentos",
+    description: "Desenvolvimento de um painel estratégico para monitorar os cancelamentos de cursos, identificando padrões e permitindo ações preventivas.",
+    image: "/cancelamentos.jpg",
+    tags: ["Looker Studio", "SQL", "Data Visualization", "Churn Analytics"],
+    link: "https://github.com/ItaloHenriqueMarquesCampos/cancelamentos_pincel/blob/main/README.md"
+  },
   {
     id: 2,
     title: "Análise Preditiva de Vendas",
