@@ -150,7 +150,6 @@ export const initialSkills: Skill[] = [
   {
     id: 1,
     name: "Python",
-    level: 90,
     category: "Programming"
   },
   {
