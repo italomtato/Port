@@ -51,13 +51,6 @@ const Footer: React.FC = () => {
             >
               <Instagram className="h-5 w-5" />
             </a>
-            <a
-              href={`mailto:${socialLinks.email}`}
-              className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors duration-300"
-              aria-label="Email"
-            >
-              <Mail className="h-5 w-5" />
-            </a>
           </div>
         </div>
       </div>
