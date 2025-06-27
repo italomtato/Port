@@ -155,55 +155,41 @@ export const initialSkills: Skill[] = [
   {
     id: 2,
     name: "SQL",
-    level: 85,
     category: "Database"
   },
   {
     id: 3,
     name: "Tableau",
-    level: 80,
     category: "Visualization"
   },
   {
     id: 4,
-    name: "Machine Learning",
-    level: 75,
+    name: "Google Sheets",
     category: "Analysis"
   },
   {
     id: 5,
-    name: "R",
-    level: 70,
+    name: "Looker Studio",
     category: "Programming"
   },
   {
     id: 6,
     name: "Power BI",
-    level: 85,
     category: "Visualization"
   },
   {
     id: 7,
-    name: "Data Cleaning",
-    level: 90,
-    category: "Data Preparation"
-  },
-  {
-    id: 8,
     name: "Excel",
-    level: 95,
     category: "Tools"
   },
   {
-    id: 9,
+    id: 8,
     name: "Statistical Analysis",
-    level: 85,
     category: "Analysis"
   },
   {
-    id: 10,
+    id: 9,
     name: "Data Storytelling",
-    level: 90,
     category: "Communication"
   }
 ];
