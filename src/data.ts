@@ -99,12 +99,12 @@ export const initialVideos: Video[] = [
 export const initialEducation: Education[] = [
   {
     id: 1,
-    institution: "Universidade Federal de Minas Gerais",
-    degree: "Bacharelado",
-    field: "Ciência da Computação",
-    startDate: "2020",
-    endDate: "2024",
-    description: "Foco em análise de dados, machine learning e estatística computacional."
+    institution: "UNINTER - Centro Universitário Internacional",
+    degree: "Tecnólogo",
+    field: "Processos Gerenciais, Gestão",
+    startDate: "2012",
+    endDate: "2014",
+    description: "Tomada de decisão · Empreendedorismo · Gestão de processos · Planejamento estratégico · Gestão de pessoas."
   },
   {
     id: 2,
@@ -114,6 +114,15 @@ export const initialEducation: Education[] = [
     startDate: "2023",
     endDate: "2023",
     description: "Especialização em Python, R e ferramentas de análise de dados."
+  },
+    {
+    id: 3,
+    institution: "UNINTER - Centro Universitário Internacional",
+    degree: "Tecnólogo",
+    field: "Processos Gerenciais, Gestão",
+    startDate: "2012",
+    endDate: "2014",
+    description: "Tomada de decisão · Empreendedorismo · Gestão de processos · Planejamento estratégico · Gestão de pessoas."
   }
 ];
 
