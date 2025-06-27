@@ -108,7 +108,7 @@ const Home: React.FC = () => {
               />
             </div>
             <div className="md:w-1/2 md:pl-12">
-              <h2 className="text-3xl font-bold text-gray-900 dark:text-white mb-6">Sobre mim</h2>
+              <h2 className="text-3xl font-bold text-gray-900 dark:text-white mb-6">Sobre mim - Italo Marques</h2>
               <p className="text-gray-700 dark:text-gray-300 mb-4">
                 Sou um Analista de Dados apaixonado por transformar números em narrativas significativas. Com experiência em análise estatística, visualização de dados e machine learning, ajudo empresas a tomar decisões baseadas em dados.
               </p>
