@@ -13,7 +13,7 @@ export const initialProjects: Project[] = [
     id: 2,
     title: "Análise Preditiva de Vendas",
     description: "Implementação de modelo preditivo para forecast de vendas utilizando técnicas avançadas de machine learning.",
-    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    image: "/cancelamentos.jpg",
     tags: ["Python", "Machine Learning", "Pandas", "Scikit-learn"],
     link: "#"
   }
