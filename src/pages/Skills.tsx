@@ -54,7 +54,7 @@ const Skills: React.FC = () => {
                 className="p-4 bg-gray-50 dark:bg-gray-700 rounded-lg flex items-center justify-between"
               >
                 <span className="text-gray-900 dark:text-white font-medium">{skill.name}</span>
-                <span className="text-blue-600 dark:text-blue-400">{skill.level}%</span>
+                <span className="text-blue-600 dark:text-blue-400">{skill.level}</span>
               </div>
             ))}
           </div>
