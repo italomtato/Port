@@ -7,22 +7,14 @@ export const initialProjects: Project[] = [
     description: "Desenvolvimento de um painel estratégico para monitorar os cancelamentos de cursos, identificando padrões e permitindo ações preventivas.",
     image: "/cancelamentos.jpg",
     tags: ["Looker Studio", "SQL", "Data Visualization", "Churn Analytics"],
-    link: "https://github.com/ItaloHenriqueMarquesCampos/portfolio/blob/110db226c755a0ca86f1b1e216e3d34f644fd802/cancelamento_pincel.md"
+    link: "https://github.com/ItaloHenriqueMarquesCampos/cancelamentos_pincel/blob/main/README.md"
   },
   {
     id: 2,
-    title: "Planilha de Comissionamento de Vendas – Consórcio",
-    description: "Desenvolvimento de uma planilha estratégica para controle de comissões, integrando dados de vendedores, gestores e empresa. A solução permite acompanhar metas, calcular comissões de forma automatizada e gerar relatórios mensais organizados.",
-    image: "/planilhaconsorcio.jpeg",
-    tags: ["Google Sheets"],
-    link: "#"
-  },
-    {
-    id: 3,
-    title: "Planilha de Comissionamento de Vendas – Consórcio",
-    description: "Desenvolvimento de uma planilha estratégica para controle de comissões, integrando dados de vendedores, gestores e empresa. A solução permite acompanhar metas, calcular comissões de forma automatizada e gerar relatórios mensais organizados.",
-    image: "/planilhaconsorcio.jpeg",
-    tags: ["Google Sheets"],
+    title: "Análise Preditiva de Vendas",
+    description: "Implementação de modelo preditivo para forecast de vendas utilizando técnicas avançadas de machine learning.",
+    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    tags: ["Python", "Machine Learning", "Pandas", "Scikit-learn"],
     link: "#"
   }
 ];
