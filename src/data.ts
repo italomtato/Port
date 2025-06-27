@@ -99,11 +99,11 @@ export const initialVideos: Video[] = [
 export const initialEducation: Education[] = [
   {
     id: 1,
-    institution: "UNINTER - Centro Universitário Internacional",
-    degree: "Tecnólogo",
-    field: "Processos Gerenciais, Gestão",
-    startDate: "2012",
-    endDate: "2014",
+    institution: "Centro Universitário do Leste de Minas Gerais (UnilesteOficial)",
+    degree: "Bacharelado",
+    field: "Engenharia, Engenharia de Produção",
+    startDate: "2014",
+    endDate: "2020",
     description: "Tomada de decisão · Empreendedorismo · Gestão de processos · Planejamento estratégico · Gestão de pessoas."
   },
   {
